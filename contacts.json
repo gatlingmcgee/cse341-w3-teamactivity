@@ -1,0 +1,114 @@
+{
+  "contact": {
+    "firstName": "Sean",
+    "lastName": "Smith",
+    "email": "seansmith@test.com",
+    "favoriteColor": "Blue",
+    "birthday": "12/07/77"
+  },
+  "contact2": {
+    "firstName": "Stacy",
+    "lastName": "Smith",
+    "email": "ssmith@test.com",
+    "favoriteColor": "Red",
+    "birthday": "07/12/80"
+  },
+  "contact3": {
+    "firstName": "Becca",
+    "lastName": "Smith",
+    "email": "beccasmith@test.com",
+    "favoriteColor": "Orange",
+    "birthday": "04/01/96"
+  },
+  "contact4": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@test.com",
+    "favoriteColor": "Green",
+    "birthday": "03/25/88"
+  },
+  "contact5": {
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "emilybrown@test.com",
+    "favoriteColor": "Purple",
+    "birthday": "09/15/92"
+  },
+  "contact6": {
+    "firstName": "Lucas",
+    "lastName": "White",
+    "email": "lucaswhite@test.com",
+    "favoriteColor": "Yellow",
+    "birthday": "01/30/85"
+  },
+  "contact7": {
+    "firstName": "Sophia",
+    "lastName": "Johnson",
+    "email": "sophiajohnson@test.com",
+    "favoriteColor": "Pink",
+    "birthday": "11/10/94"
+  },
+  "contact8": {
+    "firstName": "David",
+    "lastName": "Martinez",
+    "email": "davidmartinez@test.com",
+    "favoriteColor": "Black",
+    "birthday": "06/23/78"
+  },
+  "contact9": {
+    "firstName": "Olivia",
+    "lastName": "Garcia",
+    "email": "oliviagarcia@test.com",
+    "favoriteColor": "Blue",
+    "birthday": "02/04/90"
+  },
+  "contact10": {
+    "firstName": "James",
+    "lastName": "Miller",
+    "email": "jamesmiller@test.com",
+    "favoriteColor": "Brown",
+    "birthday": "08/14/84"
+  },
+  "contact11": {
+    "firstName": "Ava",
+    "lastName": "Taylor",
+    "email": "avataylor@test.com",
+    "favoriteColor": "Grey",
+    "birthday": "05/09/96"
+  },
+  "contact12": {
+    "firstName": "Matthew",
+    "lastName": "Harris",
+    "email": "mattharr@test.com",
+    "favoriteColor": "Teal",
+    "birthday": "12/18/89"
+  },
+  "contact13": {
+    "firstName": "Charlotte",
+    "lastName": "Lee",
+    "email": "charlottelee@test.com",
+    "favoriteColor": "Silver",
+    "birthday": "02/23/82"
+  },
+  "contact14": {
+    "firstName": "Ethan",
+    "lastName": "Perez",
+    "email": "ethanperez@test.com",
+    "favoriteColor": "Gold",
+    "birthday": "10/11/91"
+  },
+  "contact15": {
+    "firstName": "Isabella",
+    "lastName": "Davis",
+    "email": "isabelladavis@test.com",
+    "favoriteColor": "White",
+    "birthday": "04/20/84"
+  },
+  "contact16": {
+    "firstName": "Noah",
+    "lastName": "Rodriguez",
+    "email": "noahrodriguez@test.com",
+    "favoriteColor": "Brown",
+    "birthday": "07/30/88"
+  }
+}
